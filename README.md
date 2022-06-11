@@ -12,4 +12,4 @@ The web app was built in Python using the following libraries:
 * pickle
 * matplotlib
 
-I am testing cloning into my git repo, merging and pulling changes into the main repo
+I am testing cloning into my git repo, merging and pulling changes into the main repository.
